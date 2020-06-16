@@ -1,7 +1,8 @@
-package com.example.mvvm_practice1
+package com.example.mvvm_practice1.ui.quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvm_practice1.R
 
 class QuotesActivity : AppCompatActivity() {
 
